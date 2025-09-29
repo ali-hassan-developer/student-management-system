@@ -70,7 +70,7 @@ This project allows **Admins, Teachers, and Students** to log in and perform rol
    $servername = "localhost";
    $username   = "root";
    $password   = "";
-   $dbname     = "login_system";
+   $dbname     = "student_management.sql";
    ```
 
 5. Start the project
